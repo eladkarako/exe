@@ -1,0 +1,4 @@
+C:\Users\Elad\Documents\SharpDevelop Projects\exe\exe\bin\Release\exe.exe.config
+C:\Users\Elad\Documents\SharpDevelop Projects\exe\exe\bin\Release\exe.exe
+C:\Users\Elad\Documents\SharpDevelop Projects\exe\exe\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Elad\Documents\SharpDevelop Projects\exe\exe\obj\Release\exe.exe
